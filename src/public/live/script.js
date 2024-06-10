@@ -9,7 +9,7 @@ const prevBtnSec = document.querySelector(".prev-1");
 const submitBtn = document.querySelector(".submit");
 
 // Make sure this points to your API
-const API_URL = 'http://127.0.0.1:5000';
+const API_URL = 'http://162.254.34.45:5000';
 
 const createBody = (data) => {
 let urlEncodedData = "",
